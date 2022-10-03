@@ -44,6 +44,14 @@ Here are some ideas to get you started:
             </td>
         </tr>
         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Android</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+            </td>
         </tr>
     </tbody>
 </table>
