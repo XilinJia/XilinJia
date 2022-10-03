@@ -14,17 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
- -->
  
 <table width="320px">
     <tbody>
@@ -60,7 +49,7 @@ Here are some ideas to get you started:
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>JetPack Compose</strong></span><br>
+            <span><strong>Compose</strong></span><br>
             <img height="32" src="https://github.com/XilinJia/XilinJia/blob/main/JetpackCompose.png">
             </td>
         </tr>
