@@ -53,6 +53,10 @@ Here are some ideas to get you started:
             <span><strong>Kotlin</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>OpenGL</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
