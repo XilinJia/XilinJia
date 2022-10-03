@@ -61,7 +61,7 @@ Here are some ideas to get you started:
             </td>
             <td width="80px" align="center">
             <span><strong>JetPack Compose</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg">
+            <img height="32" src="https://raw.githubusercontent.com/XilinJia/XilinJia/main/<file_path>">
             </td>
         </tr>
         <tr valign="top">
