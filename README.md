@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=XilinJia&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XilinJia&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XilinJia"/>
-
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -51,3 +47,8 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=XilinJia&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XilinJia&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XilinJia"/>
+
