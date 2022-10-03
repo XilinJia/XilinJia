@@ -61,7 +61,7 @@ Here are some ideas to get you started:
             </td>
             <td width="80px" align="center">
             <span><strong>JetPack Compose</strong></span><br>
-            <img height="32" src="https://raw.githubusercontent.com/XilinJia/XilinJia/main/<file_path>">
+            <img height="32" src="https://github.com/XilinJia/XilinJia/blob/main/JetpackCompose.png">
             </td>
         </tr>
         <tr valign="top">
