@@ -34,8 +34,6 @@ Here are some ideas to get you started:
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -44,6 +42,8 @@ Here are some ideas to get you started:
             <span><strong>Kotlin</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
             </td>
+        </tr>
+        <tr valign="top">
         </tr>
     </tbody>
 </table>
