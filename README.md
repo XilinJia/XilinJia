@@ -68,6 +68,18 @@ Here are some ideas to get you started:
             <span><strong>Compose</strong></span><br>
             <img height="32" src="https://github.com/XilinJia/XilinJia/blob/main/JetpackCompose.png">
             </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node.js</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Electron</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
