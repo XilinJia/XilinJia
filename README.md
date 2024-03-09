@@ -92,6 +92,10 @@ Here are some ideas to get you started:
             <span><strong>MongoDB</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
