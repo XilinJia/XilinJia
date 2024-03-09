@@ -85,9 +85,15 @@ Here are some ideas to get you started:
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Unix</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
+            <span><strong>SQLite</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Linux</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -95,6 +101,10 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>Android</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Unix</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
             </td>
         </tr>
     </tbody>
